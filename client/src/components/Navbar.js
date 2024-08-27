@@ -24,7 +24,7 @@ const AppNavbar = () => {
       <Navbar className={`navbar navbar-expand-lg navbar-${theme} bg-${theme}`}>
         <Container fluid>
           <Navbar.Brand className="navbar-brand fs-2" as={Link} to="/">
-           DineEasy
+           PrestigePlanners
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="navbar" />
           <Navbar.Collapse id="navbar" className="d-flex flex-row-reverse">

@@ -1,26 +1,26 @@
 [
   {
     "id": "1",
-    "title": "First Event",
-    "description": "This is the content of the first event.",
-    "cost": 10,
-    "location": "123 street",
-    "date": "2023-05-01T10:00:00.000Z"
+    "title": "Wedding",
+    "description": "Modern white decor",
+    "cost": 10000,
+    "location": "Stockton",
+    "date": "2024-05-01T10:00:00.000Z"
   },
   {
     "id": "2",
-    "title": "Second Event",
-    "description": "This is the content of the second event.",
-    "cost": 15,
+    "title": "Birthday",
+    "description": "Donald Duck. Themed decor",
+    "cost": 15000,
     "location": "london",
-    "date": "2023-05-05T15:30:00.000Z"
+    "date": "2024-05-05T15:30:00.000Z"
   },
   {
     "id": "3",
-    "title": "Third Event",
-    "description": "This is the content of the third event.",
+    "title": "Bachelor Party",
+    "description": "Arrange halloween themed party",
     "cost": 50000,
     "location": "miami",
-    "date": "2023-05-10T08:45:00.000Z"
+    "date": "2024-05-10T08:45:00.000Z"
   }
 ]

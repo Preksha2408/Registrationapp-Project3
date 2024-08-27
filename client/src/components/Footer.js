@@ -17,15 +17,6 @@ const Footer = () => {
               <span className="d-inline-block mx-1 name">@WickedDan</span>
             </a>
           </div>
-           {/* PREKSHA'S SECTION */}
-           <div className="d-flex flex-column align-items-center mx-md-2 transparent-bg">
-            <a href="https://github.com/Preksha2408" className="icon Preksha2408" target="_blank" rel="noreferrer">
-            <FontAwesomeIcon icon={faGithub} flip size="3x" style={{ color: 'green' }} />
-            </a>
-            <a href="https://github.com/Preksha2408" target="_blank" rel="noreferrer">
-              <span className="d-inline-block mx-1 name">@Preksha2408</span>
-            </a>
-          </div>
           {/* PARTHA'S SECTION */}
           <div className="d-flex flex-column align-items-center mx-md-2 transparent-bg">
             <a href="https://github.com/parthacrana" className="icon parthacrana" target="_blank" rel="noreferrer">
@@ -35,10 +26,19 @@ const Footer = () => {
               <span className="d-inline-block mx-1 name">@parthacrana</span>
             </a>
           </div>
+          {/* PREKSHA'S SECTION */}
+          <div className="d-flex flex-column align-items-center mx-md-2 transparent-bg">
+            <a href="https://github.com/Preksha2408" className="icon Preksha2408" target="_blank" rel="noreferrer">
+            <FontAwesomeIcon icon={faGithub} flip size="3x" style={{ color: 'blue' }} />
+            </a>
+            <a href="https://github.com/Preksha2408" target="_blank" rel="noreferrer">
+              <span className="d-inline-block mx-1 name">@Preksha2408</span>
+            </a>
+          </div>
           {/* KUPER'S SECTION */}
           <div className="d-flex flex-column align-items-center mx-md-2 transparent-bg">
             <a href="https://github.com/justkuper" className="icon justkuper" target="_blank" rel="noreferrer">
-              <FontAwesomeIcon icon={faGithub} beat size="3x" style={{ color: 'purple' }} />
+              <FontAwesomeIcon icon={faGithub} beat size="3x" style={{ color: 'yellow' }} />
             </a>
             <a href="https://github.com/justkuper" target="_blank" rel="noreferrer">
               <span className="d-inline-block mx-1 name">@justkuper</span>

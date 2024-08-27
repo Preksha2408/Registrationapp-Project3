@@ -35,7 +35,7 @@ function Contact() {
                             type="button"
                             className="submitButton"
                         >
-                            Let's Unite.
+                            Let's Come together
 
                         </button>
                     </form>

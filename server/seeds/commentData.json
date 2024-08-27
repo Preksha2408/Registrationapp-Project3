@@ -7,25 +7,25 @@
   },
   {
     "id": 2,
-    "comment_text": "I agree with you!",
+    "comment_text": "I like mango desserts!",
     "user_id": 2,
     "event_id": 1
   },
   {
     "id": 3,
-    "comment_text": "I disagree with you!",
+    "comment_text": "I dont not enjoy Deadpool!",
     "user_id": 3,
     "event_id": 2
   },
   {
     "id": 4,
-    "comment_text": "I agree with you!",
+    "comment_text": "Just give me wifi and coffee!",
     "user_id": 4,
     "event_id": 3
   },
   {
     "id": 5,
-    "comment_text": "I disagree with you!",
+    "comment_text": "I need sleep ",
     "user_id": 5,
     "event_id": 4
   }

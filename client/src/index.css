@@ -48,16 +48,18 @@ code {
   align-items: center;
   margin-top: 50px;
   padding-bottom: 20px;
+  color:white;
 }
 
 .donation-heading {
   font-size: 24px;
   font-weight: bold;
   margin-bottom: 20px;
+  color: white;
 }
 
 .donation-button {
-  background-color: #2dd833;
+  background-color: #2dbbd8;
   /* color: white; */
   border: none;
   border-radius: 5px;

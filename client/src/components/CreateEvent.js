@@ -52,7 +52,7 @@ const CreateEvent = () => {
   return (
     <div className="text-light bg-dark p-5">
       <Container>
-        <h1>Create Reservation</h1>
+        <h1>Create Occasion </h1>
         <Form onSubmit={handleFormSubmit}>
           <Row>
             <Col xs={12} md={8}>
@@ -126,7 +126,7 @@ const CreateEvent = () => {
                 required
               />
               <Button type="submit" variant="success" size="lg"  >
-                Create Event
+                Create Occasion
               </Button>
             </Col>
           </Row>

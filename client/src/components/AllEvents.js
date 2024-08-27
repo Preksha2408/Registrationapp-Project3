@@ -15,7 +15,7 @@ const AllEvents = () => {
 
   return (
     <div className="container">
-      <h3 className="mb-4">All Reservations</h3>
+      <h3 className="mb-4">All Events</h3>
       {events.length === 0 ? (
         <div>No events found</div>
       ) : (
@@ -51,7 +51,7 @@ const AllEvents = () => {
                           color: "white",
                         }}
                       >
-                        This Reservation is full
+                        This Event  is done
                       </p>
                     </div>
                   )}
